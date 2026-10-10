@@ -1,11 +1,12 @@
 # NITRO-METHOD
 
-This repository contains **NITRO_METHOD.txt**, preserved and uploaded automatically via **Cherry 🍒** from Satyam's tools collection.
+Open-source project and utility tools.
 
-## 📦 Project Details
-- **Original Archive / File**: `NITRO_METHOD.txt`
-- **File Size**: 0.00 MB
-- **Synced At**: 2026-10-10T15:31:30.678Z
+## 🚀 Overview
+Extracted source files, configs, and documentation for `NITRO-METHOD`.
+
+## 📦 Contents
+All project files extracted directly at repository root.
 
 ---
-*Maintained by [loveslaw](https://github.com/loveslaw) & powered by Cherry.*
+*Maintained by [loveslaw](https://github.com/loveslaw)*
